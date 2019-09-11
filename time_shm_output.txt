@@ -1,0 +1,14 @@
+total 68
+-rwxrwxr-x 1 student student 12928 Feb 11 15:32 a.out
+-rw-rw-r-- 1 student student   689 Feb  9 13:16 reader.c
+-rwxrwxr-x 1 student student  8488 Feb  9 13:12 time
+-rw-rw-r-- 1 student student  1273 Feb  9 22:11 time_pipe_book.c
+-rw-rw-r-- 1 student student  1579 Feb 11 15:28 time_pipe.c
+-rw-rw-r-- 1 student student   597 Feb 11 15:31 time_pipe.txt
+-rw-rw-r-- 1 student student  1781 Feb  9 22:12 time_pipe_working with char.c
+-rwxrwxr-x 1 student student 12928 Feb 11 15:33 time_shm
+-rw-rw-r-- 1 student student  2269 Feb 11 14:53 time_shm.c
+-rw-rw-r-- 1 student student     0 Feb  9 13:10 time_shm_output.txt
+-rw-rw-r-- 1 student student     0 Feb 11 15:33 time_shm.txt
+
+Elapsed time: 2813 microseconds
